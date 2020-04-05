@@ -217,7 +217,7 @@ final_dataset <- all_data_selected %>%
 Just a few lines of code! Everything is saved  in the data frame _final_dataset_ While we're at it, let's create a csv file with the result.
 
 ```{r}
-# Create a csv file with the complete final dataset  
-write.csv(final_dataset, file = "final_data.csv")
+# Create a txt file with the complete final dataset  
+write.table(final_dataset, file = "final_data.csv", row.names = FALSE, col.names = TRUE)
 ```
 And we are done!

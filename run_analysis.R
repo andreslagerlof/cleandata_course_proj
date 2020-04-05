@@ -166,8 +166,8 @@ final_dataset <- all_data_selected %>%
                 group_by(subject_no, activity) %>%
                 summarise_all(mean)
 
-# Create a csv file with the complete final dataset  
-write.csv(final_dataset, file = "final_data.csv")
+# Create a csv file with the complete final dataset
+write.table(final_dataset, file = "final_data.csv", row.names = FALSE, col.names = TRUE)
 
 ### -------- Data for the code book ---------------- ###
 # Create a dataset of the activities and activity codes

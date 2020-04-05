@@ -5,16 +5,16 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1569531321",
     "id" : "6DF7BE75",
-    "lastKnownWriteTime" : 1586109147,
-    "last_content_update" : 1586109147526,
+    "lastKnownWriteTime" : 1586118662,
+    "last_content_update" : 1586118662345,
     "path" : "C:/Users/AndrésLagerlöf/OneDrive - Andrés Lagerlöf Konsulttjänst AB/Plugg/Coursera/John Hopkins Data Sciense/03 Getting and cleaning data/cleandata_course_proj/README.md",
     "project_path" : "README.md",
     "properties" : {
         "chunk_output_type" : "console",
-        "cursorPosition" : "5,73",
-        "scrollLine" : "0"
+        "cursorPosition" : "219,14",
+        "scrollLine" : "202"
     },
     "read_only" : false,
     "read_only_alternatives" : [
