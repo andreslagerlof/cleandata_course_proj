@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584909363988.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1859570554",
+    "id" : "5A4F51CA",
+    "lastKnownWriteTime" : 1586117902,
+    "last_content_update" : 1586117902545,
+    "path" : "C:/Users/AndrésLagerlöf/OneDrive - Andrés Lagerlöf Konsulttjänst AB/Plugg/Coursera/John Hopkins Data Sciense/03 Getting and cleaning data/cleandata_course_proj/CodeBook.Rmd",
+    "project_path" : "CodeBook.Rmd",
+    "properties" : {
+        "cursorPosition" : "2,24",
+        "docOutlineSize" : "51",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

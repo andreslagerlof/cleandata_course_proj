@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584911490582.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DA8F86B4",
+    "lastKnownWriteTime" : 1584989329,
+    "last_content_update" : 1584989329868,
+    "path" : "C:/Users/AndrésLagerlöf/OneDrive - Andrés Lagerlöf Konsulttjänst AB/Plugg/Coursera/John Hopkins Data Sciense/03 Getting and cleaning data/cleandata_course_proj/UCI HAR Dataset/README.txt",
+    "project_path" : "UCI HAR Dataset/README.txt",
+    "properties" : {
+        "cursorPosition" : "12,0",
+        "scrollLine" : "5"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

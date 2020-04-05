@@ -1,0 +1,4 @@
+"0","activity <- select(-X1)
+"
+"2","Error in select(-X1) : object 'X1' not found
+"

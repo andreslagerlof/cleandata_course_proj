@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584909461029.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "381653746",
+    "id" : "ED2BFEA9",
+    "lastKnownWriteTime" : 1586117909,
+    "last_content_update" : 1586117910029,
+    "path" : "C:/Users/AndrésLagerlöf/OneDrive - Andrés Lagerlöf Konsulttjänst AB/Plugg/Coursera/John Hopkins Data Sciense/03 Getting and cleaning data/cleandata_course_proj/run_analysis.R",
+    "project_path" : "run_analysis.R",
+    "properties" : {
+        "cursorPosition" : "176,0",
+        "scrollLine" : "155",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
