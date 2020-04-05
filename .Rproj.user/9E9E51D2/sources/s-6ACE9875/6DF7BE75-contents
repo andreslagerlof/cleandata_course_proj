@@ -218,6 +218,6 @@ Just a few lines of code! Everything is saved  in the data frame _final_dataset_
 
 ```{r}
 # Create a txt file with the complete final dataset  
-write.table(final_dataset, file = "final_data.csv", row.names = FALSE, col.names = TRUE)
+write.table(final_dataset, file = "final_data.txt", row.names = FALSE, col.names = TRUE)
 ```
 And we are done!

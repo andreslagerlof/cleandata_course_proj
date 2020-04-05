@@ -56,3 +56,9 @@ new_vector <- str_remove(new_vector, "\\)")
 # Create a dataset of the activities and activity codes
 activity <- test_data_full %>% group_by(activity_code) %>% distinct(activity) %>% arrange(activity_code)
 write.csv(activity, file = "activity.csv")
+
+
+path_dt <- "final_data.txt"
+dt <- read_table(path_dt, col_names = T)
+
+
